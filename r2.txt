@@ -1,4 +1,11 @@
 bec
 bapatla
+<<<<<<< HEAD
 external
 viva
+=======
+hello
+Devops lab
+external
+devops
+>>>>>>> b580f6b (commit)
