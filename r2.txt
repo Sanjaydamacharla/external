@@ -1,2 +1,4 @@
 bec
 bapatla
+external
+viva
